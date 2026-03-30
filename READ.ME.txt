@@ -1,0 +1,21 @@
+# Time Series Forecasting met ARIMA
+
+used dartaset:
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv
+
+another dataset:
+https://www.kaggle.com/datasets/berkerisen/wunderground-weather-data
+
+## Beschrijving
+Dit project voorspelt temperatuur met een ARIMA model.
+
+## Technologie
+- Python
+- Pandas
+- Statsmodels
+
+## Run
+Open notebook en run alle cellen.
+
+## Resultaat
+Forecast van 30 dagen.
