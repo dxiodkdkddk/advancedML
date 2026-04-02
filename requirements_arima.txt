@@ -1,0 +1,11 @@
+# Requirements voor ARIMA demo
+
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+scipy
+jupyter
+pmdarima
